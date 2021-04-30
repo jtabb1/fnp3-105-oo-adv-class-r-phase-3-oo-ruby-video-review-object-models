@@ -1,8 +1,8 @@
-## Overview
+# Video: Object Model Review
 
 This video gives an overview of object models and how to make our classes more powerful. 
 
-## Objectives
+## Learning Goals
 
 - Create a class and add reader and writer methods
 - Define class methods with an explicit `self` receiver
@@ -20,5 +20,3 @@ This video gives an overview of object models and how to make our classes more p
 
 [Additional Video on Object Models](https://www.youtube.com/watch?v=vXz6ExSdm94)
 - This video also covers many of the above topics in the main lesson video. Feel free to use this as another refresher on object models. 
-
-
